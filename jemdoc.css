@@ -126,6 +126,18 @@ h1, h2, h3 {
 	border-bottom: 1px solid #aaaaaa;
 }
 
+welcomeclass {
+	color: #333399;
+	font-size: 130%;
+	font-weight: bold;
+}
+
+descriptionclass {
+	color: #5986CE;
+	font-size: 110%;
+	font-weight: bold;
+}
+
 h1 {
 	font-size: 165%;
 }
