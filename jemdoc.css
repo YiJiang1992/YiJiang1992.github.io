@@ -1,5 +1,6 @@
 /* Default css file for jemdoc. */
 
+
 table#tlayout {
     border: none;
     border-collapse: separate;
@@ -14,13 +15,14 @@ body {
 }
 
 #layout-menu {
+	position:fixed;
 	background: #FFFAFA;
 	border: 1px solid #dddddd;
 	padding-top: 0.5em;
 	padding-left: 8px;
 	padding-right: 8px;
 	font-size: 1.0em;
-	width: auto;
+	width: 260px;
 	white-space: nowrap;
     text-align: left;
     vertical-align: top;
@@ -33,7 +35,7 @@ body {
 
 #layout-content {
 	padding-top: 0.0em;
-	padding-left: 1.0em;
+	padding-left: 290px;
 	padding-right: 1.0em;
     border: none;
     background: white;
