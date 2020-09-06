@@ -15,18 +15,16 @@ body {
 }
 
 #layout-menu {
-	position:fixed;
 	background: #FFFAFA;
 	border: 1px solid #dddddd;
 	padding-top: 0.5em;
 	padding-left: 8px;
 	padding-right: 8px;
 	font-size: 1.0em;
-	width: 260px;
+	width: auto;
 	white-space: nowrap;
     text-align: left;
     vertical-align: top;
-	height: 26000px;
 }
 
 #layout-menu td {
@@ -36,7 +34,7 @@ body {
 
 #layout-content {
 	padding-top: 0.0em;
-	padding-left: 290px;
+	padding-left: 1.0em;
 	padding-right: 1.0em;
     border: none;
     background: white;
